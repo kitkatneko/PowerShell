@@ -1,0 +1,1 @@
+Set-ItemProperty -Path “HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem” -Name NtfsDisable8dot3NameCreation -Value 1
