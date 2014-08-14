@@ -1,0 +1,88 @@
+Assetname,OSname,Description,P or V/H,Prod,Profit Center,Location,Main Application,Secondary Application,Criticality,New Description
+Hyperv2,Win 2012 R2,hyperv test server,W,T,?,?,?,,?,T??-? -W/?
+Tbsql04,Win 2003 R2,TB Tech SQL Server,V,?,TB,?,SQL?,,?,?TB?-SQL? -V/?
+Tbsql06,Win 2003,TB Tech SQL Server,V,?,TB,?,SQL?,,?,?TB?-SQL? -V/?
+Tfs1980,Win 2012,Hyper-V Host for Life 2 Development,V,?,Life2,?,SQL?,,?,?Life2?-SQL? -V/?
+Tfs1980-dev,Win 2012,TFS1980 VM Development Box,V,?,Life2,?,SQL?,,?,?Life2?-SQL? -V/?
+Tfs1980-tfs,Win 2012,TFS1980 VM Team Foundation Server,V,?,Life2,?,SQL?,,?,?Life2?-SQL? -V/?
+Bbdc1,Win 2008,BB Domain Controller (VM),V,P,BB,BB,"DC, DHCP, DNS",,Low,"PBBBB-DC, DHCP, DNS -V/Low"
+Bbphoenixvm,Win 2003,BB Phoenix VM,V,P,BB,BB,Phoenix,,High,PBBBB-Phoenix -V/High
+Brizo,Win 2008,BB File Server (VM),V,P,BB,BB,"File, DFS",,High,"PBBBB-File, DFS -V/High"
+Demeter,Win 2003 R2,BB SQL and Application Server,V,P,BB,BB,SQL2005,"IIS, File",?,"PBBBB-SQL2005 IIS, File-V/?"
+Incubus,Win 2012 R2,?? (check with Kenrick or Michael Ingraham in BB),V,P,BB,BB,?,,?,PBBBB-? -V/?
+Tartus,Win 2012,?? (check with Kenrick or Michael Ingraham in BB),V,P,BB,BB,SQL2012,?,?,PBBBB-SQL2012 ?-V/?
+Achillesn,Win 2008 R2,HH AchillesN,V,P,TB,HH,"File, DFS",,High,"PTBHH-File, DFS -V/High"
+Hhdc,Win 2008 R2,HH Domain Controller,V,P,HH,HH,"DC, DHCP, DNS",,Low,"PHHHH-DC, DHCP, DNS -V/Low"
+Neo,Win 2008,HH Proval Server (VM),V,P,HH,HH,Proval and Excel,,High,PHHHH-Proval and Excel -V/High
+W2k3s01,Win 2003,HH Phoenix Server,P,P,HH,HH,Phoenix,,High,PHHHH-Phoenix -P/High
+Artemisn,Win 2008 R2,JJ File Server,P,P,JJ,JJ,"File, DFS",,High,"PJJJJ-File, DFS -P/High"
+Jjdc,Win 2008 R2,JJ Domain Controller (VM),V,P,JJ,JJ,"DC, DHCP, DNS",,Low,"PJJJJ-DC, DHCP, DNS -V/Low"
+Jjvm1,Win 2003,JJ Phoenix Server (VM),V,P,JJ,JJ,Phoenix,,High,PJJJJ-Phoenix -V/High
+Aidos,Win 2012,MA Domain Controller,V,P,MA,MM,"DC, DHCP, DNS",,Low,"PMAMM-DC, DHCP, DNS -V/Low"
+Ares,Win 2008,MA Backup Server (?? Confirm w/Bob),P,P,MA,MM,"File, DFS",,High,"PMAMM-File, DFS -P/High"
+Atlas,Win 2003 R2,MA Vmware 2.0 Server (MUSES DC),P,P,MA,MM,Vmware Server,,?,PMAMM-Vmware Server -P/?
+Danae,Win 2003 R2,MM Phoenix VM,V,P,MA,MM,Phoenix,,High,PMAMM-Phoenix -V/High
+Helios,Win 2008 R2,MA File Server Helios,P,P,MA,MM,"File, DFS",,High,"PMAMM-File, DFS -P/High"
+Ma-lync2013,Win 2012 R2,CA Lync 2013 (Montreal),V,P,CA,MM,Lync,,Low,PCAMM-Lync -V/Low
+Mps1932,Win 2012,MP File Server,P,P,MP,MM,"File, DFS",,High,"PMPMM-File, DFS -P/High"
+Muses,Win 2008,MA DNS DHCP (VM),V,P,MA,MM,"DC, DHCP, DNS",,Low,"PMAMM-DC, DHCP, DNS -V/Low"
+Patras,Win 2008 R2,MA Replication,V,P,MA,MM,"File, DFS",,Low,"PMAMM-File, DFS -V/Low"
+Pegasusm,Win 2008 R2,Exchange Montreal Mailbox Server,V,P,CA,MM,Exchange Mailbox,,High,PCAMM-Exchange Mailbox -V/High
+Saturn,Win 2008 R2,CA Saturn,V,P,CA,MM,"Exchange HUB, CAS",,High,"PCAMM-Exchange HUB, CAS -V/High"
+Vc5-mon,Win 2008,CA Vcenter,V,P,CA,MM,vCenter,,Low,PCAMM-vCenter -V/Low
+View-mon,Win 2012 R2,Montreal Office Web App Server (Lync),V,P,CA,MM,Office Web App,,High,PCAMM-Office Web App -V/High
+Sirens,Win 2008,Quebec City Active Directory Domain Controller,V,P,QC,QC,"DC, DHCP, DNS",,Low,"PQCQC-DC, DHCP, DNS -V/Low"
+Styx,Win 2008,Quebec City Fileserver,V,P,QC,QC,"File, DFS",,High,"PQCQC-File, DFS -V/High"
+Abas,Win 2008, ,V,P,CA,TR,Acunetix Web Vulnerability Scanner,,Low,PCATR-Acunetix Web Vulnerability Scanner -V/Low
+Apollo,Win 2008,TB File Server,P,P,TB,TR,"File, DFS",,High,"PTBTR-File, DFS -P/High"
+Argus,Win 2008,TB Advise/GEMS,P,P,TB,TR,Advise 5,,High,PTBTR-Advise 5 -P/High
+Ariel,Win 2003 R2,WSUS,V,P,CA,TR,WSUS,Server Alive,Low,PCATR-WSUS Server Alive-V/Low
+Athens,Win 2008 R2,CA DR Server,V,P,CA,TR,"File, DFS",,low,"PCATR-File, DFS -V/low"
+Aura,Win 2008 R2,L1 Alfa Server 1,P,P,Life1,TR,MGALFA,,High,PLife1TR-MGALFA -P/High
+Bahamut,Win 2012 R2,Bahamut,V,T,CA,TR,Faizal Test,,Loq,TCATR-Faizal Test -V/Loq
+Bes,Win 2008 R2,CA BES Server (VM),V,P,CA,TR,BES,,Low,PCATR-BES -V/Low
+Cas1753,Win 2008 R2,CA ArcServe Server & RSDFS,P,P,CA,TR,ArcServe,RSDFS,Low,PCATR-ArcServe RSDFS-P/Low
+Cas2130,Win 2012 R2,CA DMZ Hosting,P,P,CA,TR,"DMZ, FTP",Websites,High,"PCATR-DMZ, FTP Websites-P/High"
+Eck_fas1,Win 2008 R2,SAGE Asset Mgmt Server,V,P,CA,TR,Phoenix,FAS Asset Mgmt,High,PCATR-Phoenix FAS Asset Mgmt-V/High
+Eckfin_mw,Win 2003 R2,MW Report Server,V,P,CA,TR,Phoenix,MW reports,High,PCATR-Phoenix MW reports-V/High
+Eckfin_q,Win 2003 R2,Q Messenging Server,V,P,CA,TR,Phoenix,Q Messenging,High,PCATR-Phoenix Q Messenging-V/High
+Eckfin_vm,Win 2003 R2,[DB] Sybase Server,V,P,CA,TR,Phoenix,Sybase,High,PCATR-Phoenix Sybase-V/High
+Eckfin_web,Win 2003 R2,File Server,V,P,CA,TR,Phoenix,File,High,PCATR-Phoenix File-V/High
+Eos,Win 2008,TA Utility VM,V,P,TA,TR,"Call Pilot, Nortel swPhone, Xerox XDA",Netwrix,Low,"PTATR-Call Pilot, Nortel swPhone, Xerox XDA Netwrix-V/Low"
+Eset,Win 2008 R2,CA ESET Server,V,P,CA,TR,ESET EPP,,Low,PCATR-ESET EPP -V/Low
+Eudora,Win 2008,Toronto SQL Server,V,P,CA,TR,SQL2008,,High,PCATR-SQL2008 -V/High
+Exodia,Win 2012,TA Domain Controller,V,P,TA,TR,"DC, DHCP, DNS","CA, TS License",Low,"PTATR-DC, DHCP, DNS CA, TS License-V/Low"
+Gaia,Win 2012,CA File Server,V,P,CA,TR,"File, DFS",,High,"PCATR-File, DFS -V/High"
+Hestia,Win 2012,Windows Server 2012 Hyper-V,P,P,TB,TR,Hypervisor,,High,PTBTR-Hypervisor -P/High
+Ion,Win 2008,CA Solarwinds Server (VM),V,P,CA,TR,Patch Manager,,Low,PCATR-Patch Manager -V/Low
+It1812,Win 2012 R2,IT Amar Test Server,W,T,CA IT,TR,testing,,Low,TCA ITTR-testing -W/Low
+Lansweeper,Win 2008,CA Lansweeper (VM),V,P,CA,TR,Lansweeper,,Low,PCATR-Lansweeper -V/Low
+Lync2013,Win 2012,CA Lync 2013 (Toronto),V,P,CA,TR,Lync,,High,PCATR-Lync -V/High
+Nsi,Win 2008,CA NSI Auto Store,V,P,CA,TR,Xerox Grid Scanner,,Low,PCATR-Xerox Grid Scanner -V/Low
+Panachevm1,Win 2003 R2,TB Panache Computer (VM),V,P,TB,TR,Panache,,High,PTBTR-Panache -V/High
+Pc2013,Win 2012,PNC IBC Project (VM),V,P,PNC,TR,SQL,IBC Project,Low,PPNCTR-SQL IBC Project-V/Low
+Pegasust,Win 2008 R2,Exchange Toronto Mailbox Server,V,P,CA,TR,Exchange Mailbox,,High,PCATR-Exchange Mailbox -V/High
+Perses,Win 2008 R2,L1 Alfa Server 2,P,P,Life1,TR,MGALFA server 2,,?,PLife1TR-MGALFA server 2 -P/?
+Pontus,Win 2008,TB File Server,P,P,TB,TR,"File, DFS",,High,"PTBTR-File, DFS -P/High"
+Provalvm1,Win 2003 R2,TB Proval License Server (VM),V,P,TB,TR,Proval License Server,,High,PTBTR-Proval License Server -V/High
+Sea,Win 2008,CA SEA Archiving,V,P,CA,TR,Mail archiver,PST Gatherer,High,PCATR-Mail archiver PST Gatherer-V/High
+Sharepointvm2,Win 2008 R2,CA SharePoint Foundation Server,V,P,CA,TR,SharePoint Foundation,,High,PCATR-SharePoint Foundation -V/High
+Sp2013_vm,Win 2008 R2,sp2013_vm (sp2013 testing),V,P,CA IT,TR,SharePoint 2013 Testing,,Low,PCA ITTR-SharePoint 2013 Testing -V/Low
+Sql_vm,Win 2008 R2,SQL_VM (sp2013 testing),V,P,CA IT,TR,SharePoint 2013 Testing,,Low,PCA ITTR-SharePoint 2013 Testing -V/Low
+Tantalus,Win 2008 R2,TA Toronto DC,V,P,TA,TR,"DC, DHCP, DNS",,Low,"PTATR-DC, DHCP, DNS -V/Low"
+Tonido-vm,Win 2012,CA FileCloud Server (VM),V,P,CA,TR,Tonido File Cloud,,Low,PCATR-Tonido File Cloud -V/Low
+Vc5,Win 2008 R2,CA Vcenter,V,P,CA,TR,vCenter,,Low,PCATR-vCenter -V/Low
+Veeam,Win 2008 R2,CA VM Backups (VM),V,P,CA,TR,ITTools,VM Backups,Low,PCATR-ITTools VM Backups-V/Low
+Venus,Win 2008 R2,CA Venus CAS,V,P,CA,TR,"Exchange HUB, CAS",,High,"PCATR-Exchange HUB, CAS -V/High"
+View,Win 2012 R2,Toronto Office Web App Server (Lync),V,P,CA,TR,Office Web App,,High,PCATR-Office Web App -V/High
+Webdev_vm,Win 2012,eckler.ca dev server,H,P,CA,TR,?,,?,PCATR-? -H/?
+Wsm,Win 2008,CA WatchGuard Mgmt (VM),V,P,CA,TR,WatchGuard System Manager,,Low,PCATR-WatchGuard System Manager -V/Low
+Xanthus,Win 2008 R2,TF/TA File Server,P,P,TF,TR,"File, DFS",,High,"PTFTR-File, DFS -P/High"
+Nova,Win 2003,?,V,P,BB,TR,Client Server,,Low,PBBTR-Client Server -V/Low
+VMM,Win 2008,Virtual Machine Manager,V,P,CA,TR,Virtual Machie Manager,,Low,PCATR-Virtual Machie Manager -V/Low
+Thetisn,Win 2012,VV File Server (VM),V,P,VV,VV,"File, DFS",,High,"PVVVV-File, DFS -V/High"
+Vvdc,Win 2012,VV Domain Controller (VM),V,P,VV,VV,"DC, DHCP, DNS",,Low,"PVVVV-DC, DHCP, DNS -V/Low"
+Vvphoenixvm,Win 2003 R2,VV Phoenix Server (VM),V,P,VV,VV,Phoenix,,High,PVVVV-Phoenix -V/High
+Boreasn,Win 2008 R2,WW File Server,V,P,WW,WW,"File, DFS",,High,"PWWWW-File, DFS -V/High"
+Wwzeus,Win 2008 R2,WW Domain Controller (VM),V,P,WW,WW,"DC, DHCP, DNS",,Low,"PWWWW-DC, DHCP, DNS -V/Low"
+Zephyrus,Win 2003,WW Phoenix Server (VM),V,P,WW,WW,Phoenix,,High,PWWWW-Phoenix -V/High
