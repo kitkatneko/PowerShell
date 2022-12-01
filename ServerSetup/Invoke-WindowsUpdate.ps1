@@ -24,10 +24,10 @@
     #Variables to customize
     $EmailReport = $true
     $FileReport = $true
-    $To = "fputhod@eckler.ca"
-    $From = "invoke-WU@eckler.ca"
-    $SMTPServer = "venus.eckler.ca"
-    $FileReportPath = "\\eckler.ca\xanthus\IT\IT-Administration\WindowsUpdateReports\"
+    $To = "name@achler.ca"
+    $From = "invoke-WU@achler.ca"
+    $SMTPServer = "venus.achler.ca"
+    $FileReportPath = "\\achler.ca\xanthus\IT\IT-Administration\WindowsUpdateReports\"
     $AutoRestart = $false
     $AutoRestartIfPending = $false
      
