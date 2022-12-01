@@ -10,7 +10,7 @@
 
 ## variables
 ## the content file with header
-$ContentFile = "\\eckler.ca\xanthus\IT\Scripts\ActiveDirectory\Update-ServersDescription.csv"
+$ContentFile = "\\achler.ca\xanthus\IT\Scripts\ActiveDirectory\Update-ServersDescription.csv"
 $DebugPreference = "Continue" #[{Continue | Ignore | Inquire | SilentlyContinue | Stop |  Suspend }]
 
 ##Modules
