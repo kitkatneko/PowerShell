@@ -2,7 +2,7 @@
 ##for now I use it raw and import it to excel as a pivot table
 
 ##change log
-## 20140808 fputhod: first go
+## 20140808 name: first go
 
 
 ##Variables
