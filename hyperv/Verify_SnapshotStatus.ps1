@@ -7,11 +7,11 @@ if ($snapshots.count -gt 0){
     # Mail Configuration
     # ==================
     # Configuration
-    $emailFrom = "hyperv@eckler.ca"
-    $emailTo = "fputhod@eckler.ca"
+    $emailFrom = "hyperv@achler.ca"
+    $emailTo = "name@achler.ca"
     $emailSubject = "VM Snapshot Reminder"
     $emailMessage = "You have some snapshots: `n `n" + $info + "`n Greetings your Hyper-V Server"
-    $smtpServer = "venus.eckler.ca"
+    $smtpServer = "venus.achler.ca"
     #$smtpUserName = "username" # This could be also in e-mail address format
     #$smtpPassword = "password"
     #$smtpDomain = ""
